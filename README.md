@@ -11,3 +11,10 @@ Our brains have many of the foundational capabilities readily available.
 - Long term memory for storing representations we have learned
 - Attentional control necessary for procedural execution of sequential instructions
 - Input / Output actuators for communicating with other minds
+- Subsystems for handling specialized tasks
+- Reward / inhibitions mechanisms for making adjustments based on new information
+
+Challenges
+How do you load the software into your brain and push updates?
+How do you keep the software running throughout the day when you have some many demands on your attention?
+How would you stay motivated to continuously improve your minds software?
