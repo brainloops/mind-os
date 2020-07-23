@@ -16,5 +16,7 @@ Our brains have many of the foundational capabilities readily available.
 
 Challenges
 How do you load the software into your brain and push updates?
+
 How do you keep the software running throughout the day when you have some many demands on your attention?
+
 How would you stay motivated to continuously improve your minds software?
