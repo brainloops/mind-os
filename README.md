@@ -12,7 +12,7 @@ Our brains have many of the foundational capabilities readily available.
 - Attentional control necessary for procedural execution of sequential instructions
 - Input / Output actuators for communicating with other minds
 - Subsystems for handling specialized tasks
-- Reward / inhibitions mechanisms for making adjustments (back propagation) based on new information
+- Reward / inhibition mechanisms for making adjustments (back propagation) based on new information
 
 ## Fundamental Questions
 
